@@ -1,6 +1,6 @@
 <p align='center'><img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif"/></p>
 
-# Hi I'm Nguyễn Đức Cường
+# Hi I'm Nguyễn Đức Cường 👋 
 
 ## 💫 About Me 
 
@@ -118,12 +118,16 @@
 
 ## 📊 GitHub Stats 
 
-### Profile stats
-
-![](https://github-readme-stats.vercel.app/api?username=cuongnd1705&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
+### Visitor's count
+![](https://profile-counter.glitch.me/cuongnd1705/count.svg)
 
 ### Top langs
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cuongnd1705&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+### Profile stats
+
+![](https://github-readme-stats.vercel.app/api?username=cuongnd1705&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
+
 ---
+⭐️ From [Nguyễn Đức Cường](https://github.com/cuongnd1705)
