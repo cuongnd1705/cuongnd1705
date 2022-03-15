@@ -120,16 +120,13 @@
 ### Visitor's count
 ![](https://profile-counter.glitch.me/cuongnd1705/count.svg)
 
-### Contribution Graph
-![h](https://activity-graph.herokuapp.com/graph?username=cuongnd1705&theme=dracula&hide_border=true)
-
 ### Top langs
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cuongnd1705&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ### Profile stats
 
-![](https://github-readme-stats.vercel.app/api?username=cuongnd1705&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=cuongnd1705&theme=radical&hide_border=true&include_all_commits=false&count_private=true&show_icons=true)<br/>
 
 ---
 ⭐️ From [Nguyễn Đức Cường](https://github.com/cuongnd1705)
