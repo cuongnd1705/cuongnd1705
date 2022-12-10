@@ -6,11 +6,11 @@
 
 ⚡ Quick bio: A kind of food lover, gamer, coder, programmer.
 <br>
-🔭 I’m currently working on: R&D at TelemedVN.
+🔭 I’m currently working on: R&D at Ahiho.
 <br>
-🌱 I’m currently learning: Kotlin, Python.
+🌱 I’m currently learning: Go.
 <br>
-👯 I’m looking to collaborate on: PHP, JavaScript, TypeScript related projects.
+👯 I’m looking to collaborate on: PHP, NodeJS related projects.
 <br>
 🤔 I’m looking for help with: Anything related to what I am currently learning.
 <br>
