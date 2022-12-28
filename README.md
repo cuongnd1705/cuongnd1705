@@ -6,7 +6,7 @@
 
 ⚡ Quick bio: A kind of food lover, gamer, coder, programmer.
 <br>
-🔭 I’m currently working on: R&D at Ahiho.
+🔭 I’m currently working on: NodeJS Developer at Ahiho.
 <br>
 🌱 I’m currently learning: Go.
 <br>
