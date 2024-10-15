@@ -1,19 +1,18 @@
 <p align='center'><img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif"/></p>
 
-# Hi I'm Nguyễn Đức Cường (Cody) 👋 
+# Hi I'm Cường (Cody) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 ## 💫 About Me 
 
-⚡ Quick bio: A kind of food lover, gamer, coder, programmer.
+⚡ Quick Bio: A passionate food lover, avid gamer, and dedicated coder with a knack for programming.
 <br>
-🌱 I’m currently learning: Go.
+🌱 Currently Learning: Diving into Go programming.
 <br>
-👯 I’m looking to collaborate on: NodeJS related projects.
+👯 Collaboration Opportunities: Eager to team up on NodeJS-related projects.
 <br>
-🤔 I’m looking for help with: Anything related to what I am currently learning.
+🤔 Seeking Help With: Anything connected to my learning journey in Go.
 <br>
-💬 Ask me about:  NodeJS, NestJS, PHP, Laravel, SQL, Software Design & Architecture.
-<br>
+💬 Expertise: Feel free to ask me about NodeJS, NestJS, PHP, Laravel, SQL, and Software Design & Architecture!
 
 ## 🌐 You can reach me at 
 
@@ -42,19 +41,6 @@
 ### Other
 
 ![Other](https://go-skill-icons.vercel.app/api/icons?i=arch,linux,arduino,bash,dotnet,lua,nodejs,deno,bun,vscode,neovim,datagrip,obsidian,pm2,npm,yarn,pnpm,vercel,heroku,nginx,cloudflare,datadog,docker,github,bitbucket,gitlab,githubactions,chrome,discord,postman,strapi,ngrok,ollama,figma,photoshop,illustrator)
-
-## 📊 GitHub Stats 
-
-### Visitor's count
-![](https://profile-counter.glitch.me/cuongnd1705/count.svg)
-
-### Top langs
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cuongnd1705&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-### Profile stats
-
-![](https://github-readme-stats.vercel.app/api?username=cuongnd1705&theme=radical&hide_border=true&include_all_commits=false&count_private=true&show_icons=true)<br/>
 
 ---
 ⭐️ From [Nguyễn Đức Cường](https://github.com/cuongnd1705)
